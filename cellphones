@@ -8,3 +8,4 @@ echo "this is a simple script"
 echo "enter your name"
 read name
 echo "welcome $name"
+# the end
